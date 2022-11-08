@@ -1,0 +1,167 @@
+* {
+    box-sizing: border box;
+    padding: 0;
+    margin: 0;
+    background-color: #CACFD6;
+   
+}
+
+
+.container{
+    height: 2000vh;
+    width: 100vw;
+  
+
+   
+}
+
+
+.name {
+    margin: 0px;
+    margin-top: 80px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+
+    font-size: 100px;
+    font-family: "baskerville";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+    background-color: #CACFD6; 
+ 
+
+}
+
+.inner-container-one{
+    height: 1000vh;
+    width: 100vw;
+    color: black;
+}
+
+.box {
+    margin: 325px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    width: 50vw;
+    height: 80vh;
+    
+    color: #EBD4CB;
+    font-size: 25px; 
+    background-color: #EE2436; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+    
+}
+   
+.box-one {
+    margin: 325px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    
+
+    width: 50vw;
+    height: 80vh;
+    
+    color: #EBD4CB;
+    font-size: 25px; 
+    background-color: #001E96; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+}
+
+
+.box-two {
+    margin: 325px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    width: 50vw;
+    height: 80vh;
+    
+    color: #EBD4CB;
+    font-size: 25px; 
+    background-color: #EE2436;; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+}
+
+.box-three {
+    margin: 325px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    width: 50vw;
+    height: 80vh;
+    
+    color: #EBD4CB;
+    font-size: 25px; 
+    background-color: #001E96; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+}
+
+.box-four {
+    margin: 325px;
+    padding-left: 25px;
+    padding-right: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    width: 50vw;
+    height: 80vh;
+    
+    color: #EBD4CB;
+    font-size: 25px; 
+    background-color: #EE2436;; 
+    font-family: "big caslon";
+    font-style: unset;
+    font-weight: 50;
+}
+
+
+a {
+
+color: black;
+font-family: 'baskerville';
+}
+
+
+.links{
+
+    flex-direction: column;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+   
+
+
+   
+
